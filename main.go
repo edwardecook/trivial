@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/totherme/trivial/hello"
+	"github.com/edwardecook/trivial/hello"
 )
 
 func main() {
